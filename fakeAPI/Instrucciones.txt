@@ -1,0 +1,6 @@
+- Instalar NodeJS
+- Instalar el paquete json-server con npm
+npm install -g json-server
+-Crear archivo json
+-Arrancar servidor del API
+json-server --watch estadoFirma.json
